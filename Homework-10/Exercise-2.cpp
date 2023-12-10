@@ -10,7 +10,6 @@ int main() {
 
 
     cout << "[+] Introduce caractere: "; gets(array);
-    cout << endl;
 
     for (int iter = 0; iter < strlen(array); iter++) {
 
