@@ -31,4 +31,7 @@ int main() {
         cout << "[~] Numar negativ" << endl;
     }
 
+
+    return 0;
+
 }

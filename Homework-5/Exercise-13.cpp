@@ -29,5 +29,7 @@ int main() {
 
     cout << "[~] Suma fractiilor: " << sum << " / " << common << endl;
 
+
     return 0;
+
 }
