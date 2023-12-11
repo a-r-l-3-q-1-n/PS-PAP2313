@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-    int d1, d2, d3, d4, d5, d6, d7, d8, d9, d10;
+    int d1, d2, d3, d4, d5, d6, d7;
     int total;
 
     cout << "[+] Introduce ora: "; cin >> d1;
@@ -15,11 +15,8 @@ int main() {
     cout << "[+] Introduce ora: "; cin >> d5;
     cout << "[+] Introduce ora: "; cin >> d6;
     cout << "[+] Introduce ora: "; cin >> d7;
-    cout << "[+] Introduce ora: "; cin >> d8;
-    cout << "[+] Introduce ora: "; cin >> d9;
-    cout << "[+] Introduce ora: "; cin >> d10;
 
-    total = d1 + d2 + d3 + d4 + d5 + d6 + d7 + d8 + d9 + d10;
+    total = d1 + d2 + d3 + d4 + d5 + d6 + d7;
 
     if (total < 20) {
         cout << "[~] Nu va fi pedepsit";
