@@ -15,5 +15,7 @@ int main() {
         cout << "[~] Cel mai mare numar par: " << ((x % 2 == 0 && x > y) ? x : y) << endl;
     }
 
+
     return 0;
+
 }
