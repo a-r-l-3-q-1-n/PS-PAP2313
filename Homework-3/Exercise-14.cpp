@@ -12,7 +12,7 @@ int main() {
 
 
     if (x % 2 == 0 && y % 2 == 0 && z % 2 == 0) {
-        cout << "[~] Numarul mai mare dintre al 2 și al 3 numar este: " << max(y, z) << endl;
+        cout << "[~] Numarul mai mare dintre al 2 si al 3 numar este: " << max(y, z) << endl;
     } else {
         cout << "[~] Suma dintre primele 2 numere : " << x + y << endl;
     }
