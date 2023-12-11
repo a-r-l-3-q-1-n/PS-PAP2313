@@ -6,9 +6,9 @@ int main() {
 
     int distance, days, weeks, speed;
 
-    cout << "[+] Distance: "; cin >> distance;
-    cout << "[+] Days: "; cin >> days;
-    cout << "[+] Weeks: "; cin >> weeks;
+    cout << "[+] Distanta: "; cin >> distance;
+    cout << "[+] Zile: "; cin >> days;
+    cout << "[+] Saptamani: "; cin >> weeks;
 
     speed = (distance / ((days * 12) + (weeks * 168)));
 
